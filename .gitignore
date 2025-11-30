@@ -1,0 +1,20 @@
+# Ignore GameMaker IDE cache
+*.yyz
+*.yymps
+*.yypfb
+*.temp
+*.log
+
+# Ignore build folders
+_build/
+build/
+output/
+cache/
+options\main\configs\*
+
+# Ignore IDE local cache on your machine
+.yyc/
+.yypf/
+
+# Ignore user-specific settings
+*.user
